@@ -156,17 +156,6 @@ kit_rus_medic = [
 	["<BACKPACK ITEMS >> ",[["ACE_personalAidKit",4],["ACE_surgicalKit",1],["ACE_elasticBandage",20],["ACE_fieldDressing",20],["ACE_packingBandage",10],["ACE_quikclot",20],["ACE_morphine",5],["ACE_epinephrine",5],["ACE_tourniquet",10]]]
 ];
 
-kit_fddfs = [
-	["<EQUIPEMENT >>  ","CUP_U_CRYE_MCAM_RUS_Roll","CUP_V_B_LBT_LBV_OD","B_TacticalPack_oli","rhsusf_opscore_mar_fg_pelt","CUP_G_ESS_RGR_Facewrap_Tropical"],
-	["<PRIMARY WEAPON >>  ","CUP_arifle_AK74M_railed","CUP_30Rnd_545x39_AK74M_M",["CUP_muzzle_TGPA","CUP_acc_ANPEQ_15_Flashlight_Black_L","rhsusf_acc_eotech_xps3",""]],
-	["<LAUNCHER WEAPON >>  ","CUP_launch_RShG2_Loaded","CUP_RSHG2_M",["","","",""]],
-	["<HANDGUN WEAPON >>  ","hgun_Rook40_F","16Rnd_9x21_Mag",["","","",""]],
-	["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS],
-	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
-	["<VEST ITEMS >> ",[["CUP_HandGrenade_RGD5",2],["HANDGUN MAG",2],["PRIMARY MAG",8]]],
-	["<BACKPACK ITEMS >> ",[]]
-];
-
 cargo_kit_rus_cargo = [
 	[],
 	[["CUP_30Rnd_545x39_AK74M_M",20],["CUP_10Rnd_762x54_SVD_M",10],["16Rnd_9x21_Mag",20],["CUP_HandGrenade_RGD5",10],["CUP_100Rnd_TE4_LRT4_762x54_PK_Tracer_Green_M",6],["CUP_1Rnd_HE_GP25_M",10]],
