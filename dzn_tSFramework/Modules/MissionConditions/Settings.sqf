@@ -48,7 +48,7 @@ tSF_MissionCondition_DefaultCheckTimer 			= 15;
  */
 
 // Код условия может быть строкой или кодом в { }
-MissionCondition1 = [ "WIN1",{ 
+MissionCondition1 = [ "WIN",{ 
         [ TRG_1, "east", "", "< 3"] call dzn_fnc_ccUnits
 		&& {call fnc_CheckPlayersReturned}
 },"Camp captured" ];
